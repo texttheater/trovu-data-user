@@ -12,6 +12,14 @@ cups 0:
 fpt 0:
   url: http://flickr.com/photos/texttheater
   title: fpt
+g 0:
+  include:
+    key: d 0
+    namespace: o
+g 1:
+  include:
+    key: d 1
+    namespace: o
 gdr 0:
   url: https://drive.google.com/
   title: Google Drive
@@ -31,6 +39,14 @@ gdr 1:
   examples:
   - arguments: grades
     description: Search for documents with keyword "grades" in your Google Drive
+gi 0:
+  include:
+    key: d 0
+    namespace: o
+gi 1:
+  include:
+    key: d 1
+    namespace: o
 go 0:
   url: https://golang.org/pkg/
   title: Go packages
