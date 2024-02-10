@@ -41,11 +41,11 @@ gdr 1:
     description: Search for documents with keyword "grades" in your Google Drive
 gi 0:
   include:
-    key: d 0
+    key: di 0
     namespace: o
 gi 1:
   include:
-    key: d 1
+    key: di 1
     namespace: o
 go 0:
   url: https://golang.org/pkg/
