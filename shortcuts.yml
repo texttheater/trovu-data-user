@@ -110,25 +110,6 @@ gpdf 1:
   examples:
   - arguments: berlin
     description: Google search for "berlin"
-gr 0:
-  url: https://www.goodreads.com/
-  title: Goodreads
-  tags:
-  - books
-  - literature
-  - reading
-  - social network
-gr 1:
-  url: https://www.goodreads.com/search?utf8=%E2%9C%93&query=<query>
-  title: Goodreads
-  tags:
-  - books
-  - literature
-  - reading
-  - social network
-  examples:
-  - arguments: discworld
-    description: search for Discworld novels on Goodreads
 hik 0:
   url: https://www.biograph.de/heute-im-kino
   title: Heute im Kino (Düsseldorf/Neuss)
