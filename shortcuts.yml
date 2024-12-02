@@ -128,9 +128,18 @@ tnr 0:
 tttt 1:
   url: https://duckduckgo.com/?q=<query>+site%3Atexttheater.net
   title: DuckDuckGo-Suche im Texttheater
+ulb 0:
+  url: https://katalog.ulb.hhu.de/
+  title: Universitäts- und Landesbibliothek Düsseldorf, Katalog
 ulb 1:
   url: https://katalog.ulb.hhu.de/Search/Results?lng=de&type=AllFields&lookfor=<query>
-  title: Universitäts- und Landesbibliothek Düsseldorf, Katalog
+  include: ulb 0
+ulba 0:
+  url: https://katalog.ulb.hhu.de/EDS/Home?view=
+  title: Universitäts- und Landesbibliothek Düsseldorf, Artikelsuche
+ulba 1:
+  url: https://katalog.ulb.hhu.de/EDS/Search?lookfor=<query>&type=AllFields
+  include: ulba 0
 vf 0:
   url: https://forum.neutsch.org/index.php?action=unread;all;start=0
   title: GSV-Forum
