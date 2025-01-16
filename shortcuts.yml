@@ -46,7 +46,13 @@ lt 0:
 lt 1:
   url: http://labenz.texttheater.de/<Labenz>
   title: Freut euch des Labenz!
-mb 0:
+mas 0:
+  url: https://mastodon.social
+  title: Mastodon
+mas 1:
+  url: https://mastodon.social/search?q=<query>
+  title: Search - Mastodon
+masb 0:
   url: https://mastodon.social/bookmarks
   title: Bookmarks - Mastodon
 ons 1:
