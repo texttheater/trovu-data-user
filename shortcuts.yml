@@ -53,7 +53,7 @@ mas 1:
   url: https://mastodon.social/search?q=<query>
   title: Search - Mastodon
 masm 1:
-  url: "https://mastodon.social/search?q=<query>%20from:me"
+  url: "https://mastodon.social/search?q=<query>+from%3Ame&type=statuses"
   title: Search own toots - Mastodon
 masb 0:
   url: https://mastodon.social/bookmarks
