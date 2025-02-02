@@ -52,6 +52,9 @@ mas 0:
 mas 1:
   url: https://mastodon.social/search?q=<query>
   title: Search - Mastodon
+masl 1:
+  url: "https://mastodon.social/search?q=<query>+in%3Alibrary&type=statuses"
+  title: Search toots in library - Mastodon
 masm 1:
   url: "https://mastodon.social/search?q=<query>+from%3Ame&type=statuses"
   title: Search own toots - Mastodon
