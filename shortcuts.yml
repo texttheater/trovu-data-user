@@ -104,10 +104,10 @@ r 0:
   url: https://feedly.com/i/latest
   title: Current Google Reader replacement
 sf 0:
-  url: https://forum.solawi-duesseldorf.de/
+  url: https://solawidu.uber.space/
   title: SoLaWi-Düsseldorf-Forum
 sf 1:
-  url: https://forum.solawi-duesseldorf.de/search?q=<query> order%3Alatest
+  url: https://solawidu.uber.space/index.php?r=search%2Fsearch%2Findex&SearchForm%5Bkeyword%5D=<query>&SearchForm%5BlimitSpaceGuids%5D=
   title: SoLaWi-Düsseldorf-Forum
 sfm 0:
   url: https://forum.solawi-duesseldorf.de/u/kilianevang/messages
