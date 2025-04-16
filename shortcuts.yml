@@ -46,21 +46,21 @@ lt 0:
 lt 1:
   url: http://labenz.texttheater.de/<Labenz>
   title: Freut euch des Labenz!
-mas 0:
+ma 0:
   url: https://mastodon.social
   title: Mastodon
-mas 1:
+ma 1:
   url: https://mastodon.social/search?q=<query>
   title: Search - Mastodon
-masl 1:
-  url: "https://mastodon.social/search?q=<query>+in%3Alibrary&type=statuses"
-  title: Search toots in library - Mastodon
-masm 1:
-  url: "https://mastodon.social/search?q=<query>+from%3Ame&type=statuses"
-  title: Search own toots - Mastodon
-masb 0:
+mab 0:
   url: https://mastodon.social/bookmarks
   title: Bookmarks - Mastodon
+mal 1:
+  url: "https://mastodon.social/search?q=<query>+in%3Alibrary&type=statuses"
+  title: Search toots in library - Mastodon
+mam 1:
+  url: "https://mastodon.social/search?q=<query>+from%3Ame&type=statuses"
+  title: Search own toots - Mastodon
 ons 1:
   url: http://labenz.texttheater.de/ons.php?sa=<suchausdruck>
   title: Labenz-Ortsnamensuche
