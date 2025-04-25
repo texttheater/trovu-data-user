@@ -181,6 +181,6 @@ wl 0:
   - movie
   - watch
   - watchlist
-wy 1:
+wywy 1:
   url: https://texttheater.net/wy?q=<query>
   title: English and German Wiktionary side-by-side
