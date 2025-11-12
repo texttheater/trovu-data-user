@@ -61,6 +61,9 @@ mal 1:
 mam 1:
   url: "https://mastodon.social/search?q=<query>+from%3Ame&type=statuses"
   title: Search own toots - Mastodon
+man 0:
+  url: "https://mastodon.social/notifications"
+  title: Notifications - Mastodon
 ons 1:
   url: http://labenz.texttheater.de/ons.php?sa=<suchausdruck>
   title: Labenz-Ortsnamensuche
