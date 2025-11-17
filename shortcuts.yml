@@ -38,13 +38,13 @@ hik 0:
   - cinema
   - movie
 ls 1:
-  url: http://labenz.texttheater.de/suche.php?sb=<query>
+  url: http://labenz.neutsch.org/suche.php?sb=<query>
   title: Freut euch des Labenz! - Suche
 lt 0:
-  url: http://labenz.texttheater.de
+  url: http://labenz.neutsch.org
   title: Freut euch des Labenz!
 lt 1:
-  url: http://labenz.texttheater.de/<Labenz>
+  url: http://labenz.neutsch.org/<Labenz>
   title: Freut euch des Labenz!
 ma 0:
   url: https://mastodon.social
@@ -65,7 +65,7 @@ man 0:
   url: "https://mastodon.social/notifications"
   title: Notifications - Mastodon
 ons 1:
-  url: http://labenz.texttheater.de/ons.php?sa=<suchausdruck>
+  url: http://labenz.neutsch.org/ons.php?sa=<suchausdruck>
   title: Labenz-Ortsnamensuche
 opac 0:
   url: https://opac-duesseldorf.itk-rheinland.de
