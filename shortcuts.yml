@@ -52,22 +52,22 @@ labo 1:
 labs 1:
   url: http://labenz.neutsch.org/suche.php?sb=<Suchausdruck>
   title: Freut euch des Labenz! - Suche
-ma 0:
+mas 0:
   url: https://mastodon.social
   title: Mastodon
-ma 1:
+mas 1:
   url: https://mastodon.social/search?q=<query>
   title: Search - Mastodon
-mab 0:
+masb 0:
   url: https://mastodon.social/bookmarks
   title: Bookmarks - Mastodon
-mal 1:
+masl 1:
   url: "https://mastodon.social/search?q=<query>+in%3Alibrary&type=statuses"
   title: Search toots in library - Mastodon
-mam 1:
+masm 1:
   url: "https://mastodon.social/search?q=<query>+from%3Ame&type=statuses"
   title: Search own toots - Mastodon
-man 0:
+masn 0:
   url: "https://mastodon.social/notifications"
   title: Notifications - Mastodon
 opac 0:
