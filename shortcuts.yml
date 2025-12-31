@@ -17,19 +17,19 @@ fpt 0:
   title: fpt
 g 0:
   include:
-    key: d 0
+    key: kg 0
     namespace: o
 g 1:
   include:
-    key: d 1
+    key: kg 1
     namespace: o
 gi 0:
   include:
-    key: di 0
+    key: kgi 0
     namespace: o
 gi 1:
   include:
-    key: di 1
+    key: kgi 1
     namespace: o
 hik 0:
   url: https://www.biograph.de/heute-im-kino
