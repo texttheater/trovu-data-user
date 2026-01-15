@@ -8,6 +8,6 @@ namespaces:
 - en
 - github: .
   name: kevang
-defaultKeyword: kg
+defaultKeyword: g
 language: de
 country: de
