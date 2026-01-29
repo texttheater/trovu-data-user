@@ -45,9 +45,15 @@ mas 1:
 masb 0:
   url: https://mastodon.social/bookmarks
   title: Bookmarks - Mastodon
+masl 0:
+  url: "https://mastodon.social/search?q=in%3Alibrary&type=statuses"
+  title: Search toots in library - Mastodon
 masl 1:
   url: "https://mastodon.social/search?q=<query>+in%3Alibrary&type=statuses"
   title: Search toots in library - Mastodon
+masm 0:
+  url: "https://mastodon.social/search?q=from%3Ame&type=statuses"
+  title: Search own toots - Mastodon
 masm 1:
   url: "https://mastodon.social/search?q=<query>+from%3Ame&type=statuses"
   title: Search own toots - Mastodon
