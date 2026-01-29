@@ -18,19 +18,19 @@ fpt 0:
 g 0:
   include:
     key: m 0
-    namespace: o
+    namespace: de
 g 1:
   include:
     key: m 1
-    namespace: o
+    namespace: de
 gi 0:
   include:
     key: mi 0
-    namespace: o
+    namespace: de
 gi 1:
   include:
     key: mi 1
-    namespace: o
+    namespace: de
 hik 0:
   url: https://www.biograph.de/heute-im-kino
   title: Heute im Kino (Düsseldorf/Neuss)
