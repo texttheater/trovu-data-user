@@ -31,6 +31,14 @@ gi 1:
   include:
     key: mi 1
     namespace: de
+gn 0:
+  include:
+    key: mn 0
+    namespace: de
+gn 1:
+  include:
+    key: mn 1
+    namespace: de
 hik 0:
   url: https://www.biograph.de/heute-im-kino
   title: Heute im Kino (Düsseldorf/Neuss)
