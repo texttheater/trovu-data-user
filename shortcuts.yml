@@ -23,14 +23,6 @@ g 1:
   include:
     key: m 1
     namespace: de
-gi 0:
-  include:
-    key: mi 0
-    namespace: de
-gi 1:
-  include:
-    key: mi 1
-    namespace: de
 gn 0:
   include:
     key: mn 0
